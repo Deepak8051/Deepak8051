@@ -1,7 +1,7 @@
 ![logo](https://github.com/Deepak8051/Deepak8051/blob/main/68747470733a2f2f692e696d6775722e636f6d2f317055344730722e706e67.png)
 <h1 align="center">Hi 👋, I'm Deepak Kumar Sharma</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
-<img align="right" alt="coading"width="400" src="https://cdn.dribbble.com/users/605032/screenshots/3196252/media/095306a51ec6fa0358b60b3058f1dd8e.gif">
+<img align="right" alt="coading"width="300" src="https://cdn.dribbble.com/users/605032/screenshots/3196252/media/095306a51ec6fa0358b60b3058f1dd8e.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepak8051&label=Profile%20views&color=0e75b6&style=flat" alt="deepak8051" /> </p>
 
