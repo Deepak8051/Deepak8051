@@ -1,13 +1,15 @@
+![logo](https://github.com/Deepak8051/Deepak8051/blob/main/119032136-chrome-icon-of-github-logo-on-synth-background.webp)
 <h1 align="center">Hi 👋, I'm Deepak Kumar Sharma</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
+<h3 align="center">A passionate Software Engineer from India</h3>
+<img align="right" alt="coading"width="400" src="https://cdn.dribbble.com/users/605032/screenshots/3196252/media/095306a51ec6fa0358b60b3058f1dd8e.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepak8051&label=Profile%20views&color=0e75b6&style=flat" alt="deepak8051" /> </p>
 
 <p align="left"> <a href="https://twitter.com/deepakk95365884" target="blank"><img src="https://img.shields.io/twitter/follow/deepakk95365884?logo=twitter&style=for-the-badge" alt="deepakk95365884" /></a> </p>
 
 - 🌱 I’m currently learning **New technologies**
 
-- 💬 Ask me about **Java , sql ,Spring , React**
+- 💬 Ask me about **Java ,Spring , sql , React,**
 
 - 📫 How to reach me **dsharma813101@gmail.com**
 
